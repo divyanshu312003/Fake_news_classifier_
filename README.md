@@ -1,4 +1,4 @@
-📰 Fake News Classifier using NLP & Machine Learning
+#📰 Fake News Classifier using NLP & Machine Learning
 This project builds a Fake News Classifier using a real-world dataset and applies Natural Language Processing (NLP) techniques with three ML models: Multinomial Naive Bayes, Bernoulli Naive Bayes, and Logistic Regression. The final model can predict if a news article is real or fake.
 
 📂 Dataset
